@@ -1,0 +1,7 @@
+C:\Users\m.baghisov\Desktop\az-204\2025_05_27 udemy\lessons\lesson 13. vs code create project\tmp2\learningapp\bin\Publish\learningapp.exe
+C:\Users\m.baghisov\Desktop\az-204\2025_05_27 udemy\lessons\lesson 13. vs code create project\tmp2\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\m.baghisov\Desktop\az-204\2025_05_27 udemy\lessons\lesson 13. vs code create project\tmp2\learningapp\bin\Publish\appsettings.json
+C:\Users\m.baghisov\Desktop\az-204\2025_05_27 udemy\lessons\lesson 13. vs code create project\tmp2\learningapp\bin\Publish\learningapp.dll
+C:\Users\m.baghisov\Desktop\az-204\2025_05_27 udemy\lessons\lesson 13. vs code create project\tmp2\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\m.baghisov\Desktop\az-204\2025_05_27 udemy\lessons\lesson 13. vs code create project\tmp2\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\m.baghisov\Desktop\az-204\2025_05_27 udemy\lessons\lesson 13. vs code create project\tmp2\learningapp\bin\Publish\learningapp.pdb
